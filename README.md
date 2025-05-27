@@ -14,6 +14,12 @@ __аналогично__
 
 ###### H6 header line 3
 
+```
+for i in range(1..10)
+   print (i)
+```
+
+
 [link name here](https://ya.ru "яндех")
 [Яндекс](https://www.yandex.ru "Я Yandex!") 
 
