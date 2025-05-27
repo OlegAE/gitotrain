@@ -1,6 +1,6 @@
-##### Test repo for experements with cli git commands 
+### Test repo for experements with cli git commands 
 
-
+[Cоглашение об именовании коммитов](https://www.conventionalcommits.org/ru/v1.0.0-beta.4/#%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F)
 # H1 gitotrain
 Hello Bro )
 it's a repo for test git commands and trix.
