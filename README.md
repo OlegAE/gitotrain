@@ -1,7 +1,13 @@
-# gitotrain
+
+
+# H1 gitotrain
 Hello Bro )
 it's a repo for test git commands and trix.
 
+** полужирный шрифт **
+__ аналогично __
+
+~~ зачёркнутый ~~
 
 ###### header 6
 # H6 one more 6 header
