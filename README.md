@@ -14,8 +14,8 @@ __аналогично__
 
 ###### H6 header line 3
 
-[link name here] (https://ya.ru "яндех")
-
+[link name here](https://ya.ru "яндех")
+[Яндекс](https://www.yandex.ru "Я Yandex!") 
 
 
 1. первый
