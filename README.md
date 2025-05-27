@@ -13,11 +13,22 @@ it's a repo for test git commands and trix.
 ###
 # H1 header H1
 
-#### header under line
+ header under line
 ---
 text under
 ----
 test below
+
+test text <br> second br is .. and third br is ...
+
+no br
+
+
+paragraph1
+
+para
+pam
+pam
 
 
 # H1 — заголовок первого уровня, самый большой
