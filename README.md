@@ -14,10 +14,10 @@ it's a repo for test git commands and trix.
 # H1 header H1
 
 #### header under line
-
-#text under
+---
+text under
 ----
-#test below
+test below
 
 
 # H1 — заголовок первого уровня, самый большой
