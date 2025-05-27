@@ -9,6 +9,7 @@ it's a repo for test git commands and trix.
 **полужирный шрифт**
 __аналогично__
 
+
 ~~зачёркнутый~~
 
 ### header 3
@@ -65,3 +66,13 @@ pam
 ###### H6 — заголовок шестого уровня, самый маленький 
 
 #### Text under line
+
+
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
